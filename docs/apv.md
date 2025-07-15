@@ -1,22 +1,22 @@
-# Algemene Plaatselijke Verordening Sunstone
+# Algemene Plaatselijke Verordening Wave
 
 ## Wetstechnische informatie
 
 ### Wet van 29 november 2024
 
-Wij, de Hoge Raad der Sunstone, bij de gratie Gods, enz., enz., enz.
+Wij, de Hoge Raad der Wave, bij de gratie Gods, enz., enz., enz.
 
 Allen die deze zullen zien of horen lezen, salut! doen te weten:
 
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Sunstone (APV)** vast te stellen:
+Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Wave (APV)** vast te stellen:
 
-**Zo is het dat wij, de staff der Sunstone, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Sunstone.**
+**Zo is het dat wij, de staff der Wave, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Wave.**
 
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Sunstone                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Sunstone |
-| Citeertitel                | Algemene Plaatselijke Verordening Sunstone |
+| Overheidsorganisatie       | Staff der Wave                |
+| Officiële naam regeling    | Algemene Plaatselijke Verordening Wave |
+| Citeertitel                | Algemene Plaatselijke Verordening Wave |
 | Vastgesteld door           | De Hoge Raad                        |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
@@ -24,7 +24,7 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij overschreven door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij overschreven door deze APV.
 
 ---
 
@@ -32,7 +32,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij overs
 
 ### **A-1 - Reikwijdte**
 
-1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Sunstone.
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Wave.
 2. De APV biedt een indicatief kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### **A-2 - Geldigheid**
@@ -128,7 +128,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 6 - RDM (Random Deathmatch)**
 
-1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
+1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden.
 
 → **Sanctie:** Categorie 1.
 
@@ -153,26 +153,11 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ---
 
-### **Artikel 8 - ERP (Erotiche Roleplay)**
+### **Artikel 8 - Nieuwe spelers**
 
-1. Het uitvoeren van erotische roleplay (ERP) is ten strengste verboden.
+1. Het is niet toegestaan om nieuwe spelers te benaderen in negatieve zin. Uiteraard is het toegestaan om ze te helpen mocht daar om gevraagd worden.
 
-2. **Voorbeelden van ERP:**
-    * Berichten met een erotische tint in `/me`, `/do` en `/looc`; denk daarbij aan het praten over seks en/of geslachtsdelen.
-    * Foutief gebruik van emotes met seksuele ondertoon.
-
-→ **Sanctie:** Categorie 7.
-
----
-
-### **Artikel 9 - Zelfmoord-RP**
-
-1. Het uitvoeren van een zelfmoordscenario is niet toegestaan.
-
-    **Uitzondering:** Dit artikel kan alleen worden overschreden met goedkeuring van de staff.
-   Het Bomvest is uitzondering op dit artikel. Hierbij moet wel een roleplay aan vast zitten.
-
-→ **Sanctie:** Categorie 8 en/of 200 maanden celstraf.
+→ **Sanctie:** Categorie 2.
 
 ---
 
@@ -185,12 +170,12 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 2. Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff.
     * **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
-    * Tijdens voicechats met andere spelers van Sunstone geldt:
+    * Tijdens voicechats met andere spelers van Wave geldt:
         * Streamen is niet toegestaan.
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
-    * In calls zitten met je vrienden die geen Sunstone spelen is ook verboden.
+    * In calls zitten met je vrienden die geen Wave spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
 
 → **Sanctie:** Categorie 1.
@@ -219,10 +204,10 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Bij het aanmaken van je personage moet de kleding worden aangepast. Het is niet toegestaan om met standaard startkleding de server te betreden. Het personage dient een realistische uitstraling te hebben, waarbij de outfit klopt (inclusief armen) en er geen lichaamsdelen ontbreken.
 2. De kleding die door de werkgever is verstrekt voor het uitvoeren van het beroep moet gedragen worden.
 3. Het dragen van kleding van overheidsbanen door niet-ambtenaren is verboden, tenzij hier een goedgekeurde roleplay door een stafflid aan verbonden is.
-4. Officiële Sunstone-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
-5. Kleding die aangekocht is via de Sunstone website mag wel gedragen worden door iedereen. (Op eigen risico)
+4. Officiële Wave-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
+5. Kleding die aangekocht is via de Wave website mag wel gedragen worden door iedereen (op eigen risico).
 
-→ **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
+→ **Sanctie:** Eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
 ---
 
@@ -237,7 +222,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 15 - Talen in de stad**
 
-1. De voertalen op Sunstone zijn **Nederlands** en **Engels**.
+1. De voertalen op Wave zijn **Nederlands** en **Engels**.
 2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
 3. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
 
@@ -275,7 +260,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Officiële vergunningen vereist, ondertekend door een lid van KVK.
 3. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
 
-→ **Sanctie:** Categorie 1. De KvK wordt ook geïnformeerd.
+→ **Sanctie:** Categorie 1. De KVK wordt ook geïnformeerd.
 
 ---
 
@@ -298,7 +283,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Sunstone erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Wave erkende platformen.
 
 → **Sanctie:**
     **Eerste overtreding:** Twee weken ban.
@@ -333,7 +318,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Minimaal categorie 1.
 
 ---
 
@@ -343,32 +328,30 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 * **Politie**
 * **Koninklijke marechaussee**
-* **Justitie**
 * **Ambulance**
-* **SUN Wegenwacht**
-* **Handhaving**
+* **Wegenwacht**
 
-<!-- Kaas saak -->
 
-1. Voor een politie, marechausee en handhaving ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
+1. Voor een politie en marechaussee ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
 **Uitzondering:** Politie- of KMAR-medewerkers met een speciale vergunning mogen hun wapens buiten dienst behouden.
 
-→ **Sanctie:** categorie 6.
+→ **Sanctie:** Categorie 6.
 
 ---
 
 ### **Artikel 23 - Gedrag tegen overheidsmedewerkers**
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
-2. Roleplay met SUN Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
+2. Roleplay met Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
-4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
+4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de medewerkers.
 
-**Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd.
+**Uitzondering:** Ambulance en Wegenwacht ambtenaren mogen ten alle tijden niet door criminele organisatie's ontvoerd worden.
+
 5. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
 
-→ **Sanctie:** categorie 5, bij herhaling categorie 6.
+→ **Sanctie:** Categorie 5, bij herhaling categorie 6.
 
 ---
 
@@ -391,7 +374,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
 4. Er moet samen minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -415,17 +398,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
    * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
    * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
 11. 30 minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist. 
-→ **Sanctie:** categorie 1.
-
----
-
-### **Artikel 27 - Jobhoppen**
-
-1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
-3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
-
-→ **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -435,17 +408,17 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 29 - Omgaan met F6**
+### **Artikel 29 - Omgaan met third-eye**
 
-1. Het direct plaatsen van een geboeide persoon in een voertuig via F6 zonder uitgevoerde roleplay-handelingen is verboden. Spelers dienen de volgende stappen te volgen voor een realistische interactie:
+1. Het direct plaatsen van een geboeide persoon in een voertuig via third-eye zonder uitgevoerde roleplay-handelingen is verboden. Spelers dienen de volgende stappen te volgen voor een realistische interactie:
     * De deuren van het voertuig openen.
     * De geboeide persoon begeleiden naar de deuropening.
     * Verbaal (op normale of luide toon) of via een actiecommando (/me) aangeven dat de persoon in het voertuig wordt getrokken.
-    * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het F6 menu.
+    * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het third-eye menu.
     * fouilleren mag alleen met een legitieme reden.
 
 2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
@@ -453,9 +426,9 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
     * Het openen van de deur.
     * Het losmaken van de gordel (indien van toepassing).
     * Het naar buiten trekken van de persoon.
-   Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
+   Elke directe interactie via third-eye zonder bovengenoemde handelingen wordt beschouwd als third-eye-abuse.
 
-→ **Sanctie:** categorie 5.
+→ **Sanctie:** Categorie 5.
 
 ---
 
@@ -464,53 +437,54 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Sunstone met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Wave met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
 
-→ **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
+→ **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
 ---
 
-## **Eiland**
+## **Isla de Wave**
 
-Onderstaande regels zijn er alleen op eiland
+Onderstaande regels zijn er alleen op Isla de Wave
 
-### **Artikel N-1 - Schieten vanaf het vasteland en water**
+### **Artikel IDW-1 - Schieten vanaf het vasteland en water**
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is voor de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel N-2 - Inladen van helikopers/vliegtuigen**
+### **Artikel IDW-2 - Inladen van helikopers/vliegtuigen**
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
-3. De Kleine eilandjes rondom eiland zijn eveneens uitgezonderd van deze regel. 
+3. De Kleine eilandjes rondom Isla de Wave zijn eveneens uitgezonderd van deze regel. 
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel N-3 - Samenwerking criminele organisaties**
+### **Artikel IDW-3 - Samenwerking criminele organisaties**
 
-1. Op eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op Isla de Wave is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel N-4 - Campen van een niet actieve drugslocatie**
+### **Artikel IDW-4 - Campen van een niet actieve drugslocatie**
 
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -580,7 +554,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Onder de AFK-kick proberen uit te komen is verboden.
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of een medewerker van de SUN Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+* Het is verboden een ambulancier of een medewerker van de TDA Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---
@@ -597,4 +571,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Sunstone”, opgetekend door Silent Sources, te Sunstone.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.
