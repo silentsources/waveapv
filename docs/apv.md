@@ -45,7 +45,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij overschre
 ### **A-3 - Strafbepaling**
 
 1. De straffen zijn onderverdeeld in de volgende categorieën:
-    * **Categorie 1:** Een waarschuwing + 100 uur taakstraf
+    * **Categorie 1:** Een waarschuwing + 50 uur taakstraf
       *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
     * **Categorie 2:** Een ban van 1 dag + 50 uur taakstraf
     * **Categorie 3:** Een ban van 2 dagen + 50 uur taakstraf
@@ -89,6 +89,8 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Je voertuig in een garage zetten of pakken tijdens een achtervolging om verlies te voorkomen;
     * Een agent ontvoeren om een signalering te verwijderen of om toegang te krijgen tot politiedossiers (MEOS);
     * Medewerkers van overheidsdiensten dwingen een bewusteloos persoon te fouilleren, wapens af te nemen of af te geven aan jou of anderen.
+    * Gebruik maken van de head-id's waarbij ID’s worden getoond om spelers te vinden.
+    * Het uitvoeren van /me handelingen waarvoor items, jobs of andere zaken benodigd zijn of gebruikt kunnen worden.
 
 → **Sanctie:** Categorie 1.
 
@@ -108,11 +110,12 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ---
 
-### **Artikel 4 - Safezone**
+### **Artikel 4 - Trading**
 
-1. Het is verboden om de **Safezone** te gebruiken om te ontkomen aan illegale activiteiten en/of roleplay.
-2. **Voorbeelden van overtredingen binnen een Safezone:**
-    * Schade toebrengen, ontvoeren, uitbreken, overvallen, aanrijden of vermoorden van een persoon.
+1. Het verhandelen van artikelen, diensten, geld en accounts is ten strengste verboden.
+2. **Voorbeelden van trading:**
+    * Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Future of een lange pauze neemt.
+    * Het aannemen van goederen van iemand die stopt is ook verboden.
 
 → **Sanctie:** Categorie 1.
 
@@ -138,16 +141,17 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt. Dit omvat onder andere:
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
-    * Wegrennen van een bomvest welke binnen armlengte van jou staat en jijzelf geen wapen in de handen hebt.
+    * Niet meewerken als je je handen omhoog hebt gedaan of je op een andere manier overgegeven of overmeesterd bent.
+    * Met een voertuig bewust kogels absorberen.
+    Ongeacht als het voertuig bullet proof is of andere vormen van bescherming.
+    * Denk aan gevaarlijke stunts, springen van daken, “het opzoeken, blijven bevinden of rondom gevaar zonder goede reden.”
+    * Je zelf in gevaar brengen zonder goede reden, bijv. voor sensatie of om “te kloten”.
 
-    **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
+    **Uitzondering:** Het is **geen NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
 
 2. Het overvallen met een mêlee-wapen is toegestaan, zolang het binnen armlengte is en het wapen op het slachtoffer gericht is. Buiten deze omstandigheden is medewerking niet verplicht.
 Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
-
-
-3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
 
 → **Sanctie:** Categorie 2.
 
@@ -274,10 +278,12 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 → **Sanctie:** Categorie 1.
 4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
 → **Sanctie:** Categorie 1.
-5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
+5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **120 km/u**.
 → **Sanctie:** Categorie 1.
 6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
-7. → **Sanctie:** categorie 2.
+7. → **Sanctie:** Categorie 2.
+8. Het offroad rijden zonder dat je een offroader bestuurd, stunt jumps nemen en het onnodig beuken van andere voertuigen zonder goede reden.
+9. → **Sanctie:** Categorie 1.
 
 ---
 
@@ -402,11 +408,12 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ---
 
-### **Artikel 28 - Stemherkenning**
+### **Artikel 28 - Stem/ visuelle herkenning**
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar/de stem, tenzij je hem/haar/het totaal niet kent. Indien hierom gevraagd word, dien je dit aan te kunnen tonen.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
+4. Het herkennen van voertuigen op basis van model, merk en kleur is niet toegestaan. Kentekenplaat wel, hoewel het kenteken plaat overeen moet komen.
 
 → **Sanctie:** Categorie 1.
 
@@ -439,9 +446,9 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
 4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Wave met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
-6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
+6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan headstaff+ deze loods opnieuw beschikbaar maken voor het publiek.
 
-→ **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
+→ **Sanctie:** Categorie 3.
 
 ---
 
