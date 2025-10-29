@@ -98,13 +98,13 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 3 - Out Of Character**
 
-1. Het is te allen tijde verboden om je karakter te "breken". Dit houdt in dat je termen gebruikt die als **Out Of Character (OOC)** worden beschouwd. Ook is het niet toegestaan om `/looc` verkeerd te gebruiken of te gebruiken voor toxic of zoutige opmerkingen.
+1. Het is te allen tijde verboden om je karakter te "breken". Dit houdt in dat je termen gebruikt die als **Out Of Character (OOC)** worden beschouwd. Ook is het niet toegestaan om `/me` verkeerd te gebruiken of te gebruiken voor toxic of zoutige opmerkingen.
 
-2. **Voorbeelden van verkeerd gebruik van `/looc`:**
-    * `/looc wat doen jullie?`
-    * `/looc waarom rdm je?`
-    * `/looc slechte roleplay`
-    * `/looc wat je doet mag niet, ik maak een ticket/report`
+2. **Voorbeelden van verkeerd gebruik van `/me`:**
+    * `/me wat doen jullie?`
+    * `/me waarom rdm je?`
+    * `/me slechte roleplay`
+    * `/me wat je doet mag niet, ik maak een ticket/report`
 
 → **Sanctie:** Categorie 1.
 
@@ -132,6 +132,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 ### **Artikel 6 - RDM (Random Deathmatch)**
 
 1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden.
+2. Het vermoorden van iemand als je diegene net geript hebt is verboden, tenzij hij uitdaagt/vecht of niet meewerk.
 
 → **Sanctie:** Categorie 1.
 
@@ -146,6 +147,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     Ongeacht als het voertuig bullet proof is of andere vormen van bescherming.
     * Denk aan gevaarlijke stunts, springen van daken, “het opzoeken, blijven bevinden of rondom gevaar zonder goede reden.”
     * Je zelf in gevaar brengen zonder goede reden, bijv. voor sensatie of om “te kloten”.
+    * Terugkeren naar een locatie waar je onder dreiging van een wapen bent weggestuurd.
 
     **Uitzondering:** Het is **geen NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
