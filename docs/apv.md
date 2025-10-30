@@ -104,7 +104,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het verhandelen van artikelen, diensten, geld en accounts is ten strengste verboden.
 2. **Voorbeelden van trading:**
-    * Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Future of een lange pauze neemt.
+    * Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Wave of een lange pauze neemt.
     * Het aannemen van goederen van iemand die stopt is ook verboden.
 
 → **Sanctie:** Categorie 7.
@@ -331,7 +331,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 
 1. Voor een politie en marechaussee ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
-2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
+2. Het is voor alle overheids leidinggevenden niet mogelijk om staff te worden als ze een leiding functie hebben binnen de overheid, als leidings functie wordt bedoeld 01, 02, 03 etc.
+3. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
 **Uitzondering:** Politie- of KMAR-medewerkers met een speciale vergunning mogen hun wapens buiten dienst behouden.
 
 → **Sanctie:** Categorie 6.
@@ -570,4 +571,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.
+APV opgesteld uit naam van het bestuur, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.
