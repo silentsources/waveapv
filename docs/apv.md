@@ -309,7 +309,8 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
       * **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
-7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
+7. Officiële gangs mogen niet oplichten voor (vuur)wapens, leveren of andere criminele zaken, non-officiële gangs mogen dit wel.
+8. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
    * Hetzelfde voertuig met de juiste kleur: 15 minuten;
    * Zelfde kenteken: 1 uur;
    * Persoonsherkenning: 4 uren;
