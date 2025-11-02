@@ -407,6 +407,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
 4. Het herkennen van voertuigen op basis van model, merk en kleur is niet toegestaan. Kentekenplaat wel, hoewel het kenteken plaat overeen moet komen.
+5. Een stemherkenning blijft maximaal 3 uur geldig, daarna moet je de stem opnieuw herkennen.
 
 → **Sanctie:** Categorie 1.
 
