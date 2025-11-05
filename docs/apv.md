@@ -349,6 +349,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Roleplay met Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de medewerkers.
+5. Tijdens een scenario met een onderhandeling mag de onderhandelaar niet worden gegijzeld, vermoord en dergelijke.
 
 **Uitzondering:** Ambulance en Wegenwacht ambtenaren mogen ten alle tijden niet door criminele organisatie's ontvoerd worden.
 
